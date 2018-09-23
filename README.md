@@ -1,2 +1,2 @@
 # sample
-Anotha one, the first one.
+Anotha one, the second one.
